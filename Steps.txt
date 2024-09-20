@@ -1,0 +1,3 @@
+To run any .ipynb file:
+1. Select conda interpreter using Ctrl+Shift+P
+2. Run the following code in terminal: conda activate myenv
